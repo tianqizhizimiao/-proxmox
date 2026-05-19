@@ -9,3 +9,4 @@
 
 - 接下来需要一个U盘
 - 不要使用 Ventoy 进行安装, 它和 Proxmox 安装程序存在兼容性问题，无法被识别。
+<img width="2314" height="1279" alt="c1500c931fc75438093ebcb92d6cd71f" src="https://github.com/user-attachments/assets/da05d795-fc2f-4a6c-9c11-aa145ed22a6f" />
